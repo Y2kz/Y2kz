@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Vaishnav PP (Y2kz)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Y2kz&label=Profile%20views&color=0e75b6&style=flat" alt="Y2kz" />
-</p>
 
 ### 🚀 Project & Operations Engineer | Cloud-Native & Telecom Expert
 **Project & Operations Engineer** with 4+ years of expertise in **Telecom Infrastructure** and **Cloud Technologies**. I specialize in deploying high-availability systems across the APAC and UK regions, with deep technical skills in **containerization (K8s/Docker)**, **Linux administration**, and **Network Security**. Passionate about automating complex infrastructures and delivering business-critical solutions.
