@@ -6,17 +6,31 @@
 ---
 
 ### 🌐 Connect With Me
-<a href="https://y2kz.in" target="_blank"><img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" alt="website" width="40" height="40"/></a>&nbsp;&nbsp;<a href="mailto:contact@y2kz.in" target="_blank"><img src="https://unpkg.com/lucide-static@latest/icons/mail.svg" alt="mail" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/vaishnav-pp-y2kz" target="_blank"><img src="https://svgl.app/library/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
+<a href="https://y2kz.in" target="_blank"><img align="left" src="https://unpkg.com/lucide-static@latest/icons/globe.svg" alt="website" width="40" height="40"/></a>
+<a href="mailto:contact@y2kz.in" target="_blank"><img align="left" src="https://unpkg.com/lucide-static@latest/icons/mail.svg" alt="mail" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/vaishnav-pp-y2kz" target="_blank"><img align="left" src="https://svgl.app/library/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
+<br clear="left"/>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### **Cloud & DevOps**
-<img src="https://svgl.app/library/kubernetes.svg" alt="k8s" width="40" height="40"/>&nbsp;&nbsp;<img src="https://svgl.app/library/docker.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oci" width="40" height="40"/>&nbsp;&nbsp;<img src="https://svgl.app/library/linux.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/debian" alt="debian" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redhat" alt="rhel" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/kubernetes.svg" alt="k8s" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/docker.svg" alt="docker" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oci" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/linux.svg" alt="linux" width="40" height="40"/>
+<img align="left" src="https://cdn.simpleicons.org/debian" alt="debian" width="40" height="40"/>
+<img align="left" src="https://cdn.simpleicons.org/redhat" alt="rhel" width="40" height="40"/>
+<br clear="left"/>
 
 #### **Development & Monitoring**
-<img src="https://svgl.app/library/python.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;<img src="https://svgl.app/library/flask-light.svg" alt="flask" width="40" height="40"/>&nbsp;&nbsp;<img src="https://svgl.app/library/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;<img src="https://svgl.app/library/grafana.svg" alt="grafana" width="40" height="40"/>&nbsp;&nbsp;<img src="https://svgl.app/library/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/python.svg" alt="python" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/flask-light.svg" alt="flask" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/javascript.svg" alt="javascript" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/grafana.svg" alt="grafana" width="40" height="40"/>
+<img align="left" src="https://svgl.app/library/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
+<br clear="left"/>
 
 ---
 
