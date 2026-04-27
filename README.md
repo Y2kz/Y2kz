@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Vaishnav PP (Y2kz)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Y2kz&label=Profile%20views&color=0e75b6&style=flat" alt="Y2kz" />
+</p>
 
 ### 🚀 Project & Operations Engineer | Cloud-Native & Telecom Expert
 **Project & Operations Engineer** with 4+ years of expertise in **Telecom Infrastructure** and **Cloud Technologies**. I specialize in deploying high-availability systems across the APAC and UK regions, with deep technical skills in **containerization (K8s/Docker)**, **Linux administration**, and **Network Security**. Passionate about automating complex infrastructures and delivering business-critical solutions.
@@ -7,15 +10,9 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://y2kz.in" target="_blank">
-    <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" alt="website" width="40" height="40"/>
-  </a>
-  <a href="mailto:contact@y2kz.in" target="_blank">
-    <img src="https://unpkg.com/lucide-static@latest/icons/mail.svg" alt="mail" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/vaishnav-pp-y2kz" target="_blank">
-    <img src="https://svgl.app/library/linkedin.svg" alt="linkedin" width="40" height="40"/>
-  </a>
+<a href="https://y2kz.in" target="_blank"><img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" alt="website" width="40" height="40"/></a>&nbsp;
+<a href="mailto:contact@y2kz.in" target="_blank"><img src="https://unpkg.com/lucide-static@latest/icons/mail.svg" alt="mail" width="40" height="40"/></a>&nbsp;
+<a href="https://linkedin.com/in/vaishnav-pp-y2kz" target="_blank"><img src="https://svgl.app/library/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 
 ---
@@ -24,21 +21,21 @@
 
 #### **Cloud & DevOps**
 <p align="left">
-  <img src="https://svgl.app/library/kubernetes.svg" alt="k8s" width="40" height="40"/>
-  <img src="https://svgl.app/library/docker.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oci" width="40" height="40"/>
-  <img src="https://svgl.app/library/linux.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/debian" alt="debian" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/redhat" alt="rhel" width="40" height="40"/>
+<img src="https://svgl.app/library/kubernetes.svg" alt="k8s" width="40" height="40"/>&nbsp;
+<img src="https://svgl.app/library/docker.svg" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oci" width="40" height="40"/>&nbsp;
+<img src="https://svgl.app/library/linux.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/debian" alt="debian" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/redhat" alt="rhel" width="40" height="40"/>
 </p>
 
 #### **Development & Monitoring**
 <p align="left">
-  <img src="https://svgl.app/library/python.svg" alt="python" width="40" height="40"/>
-  <img src="https://svgl.app/library/flask-light.svg" alt="flask" width="40" height="40"/>
-  <img src="https://svgl.app/library/javascript.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://svgl.app/library/grafana.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://svgl.app/library/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
+<img src="https://svgl.app/library/python.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://svgl.app/library/flask-light.svg" alt="flask" width="40" height="40"/>&nbsp;
+<img src="https://svgl.app/library/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://svgl.app/library/grafana.svg" alt="grafana" width="40" height="40"/>&nbsp;
+<img src="https://svgl.app/library/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
 </p>
 
 ---
