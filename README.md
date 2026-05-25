@@ -44,10 +44,6 @@
   ![Progress](https://geps.dev/progress/95)
   *Advanced brokerage calculator with direct NSE India integration.*
 
-- **🪁 [Kite Mock Engine](https://github.com/Y2kz/Kite-Mock)**
-  ![Progress](https://geps.dev/progress/70)
-  *High-fidelity Zerodha Kite API replica with dynamic market simulation.*
-
 ---
 
 ### 📊 GitHub Stats
