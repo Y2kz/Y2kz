@@ -32,17 +32,6 @@
 <img align="left" src="https://svgl.app/library/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
 <br clear="left"/>
 
----
-
-### 🏗️ Major Projects
-
-- **🚀 [Trade Hunter AI](https://github.com/Y2kz/Trade-Hunter)**
-  ![Progress](https://geps.dev/progress/85) 
-  *AI-powered stock market analyzer with automated execution.*
-
-- **📊 [TradeWise Pro](https://github.com/Y2kz/TradewisePro)**
-  ![Progress](https://geps.dev/progress/95)
-  *Advanced brokerage calculator with direct NSE India integration.*
 
 ---
 
